@@ -12,4 +12,6 @@ app.get('/twitter/:username/:count?', (req, res)=>{
             res.send(tweets)
         })
 })
-app.listen(3000, ()=> console.log('app running on http://localhost:3000/'))
+const port_no = process.env.PORT || 8000
+console.log(port_no)
+app.listen(port_no, ()=> console.log(`app running on http://127.0.0.1:${port_no}`))
