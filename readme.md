@@ -5,7 +5,7 @@
 
 ## Installation
 ```
-git clone https://github.com/zuck007/heroku-the-next-date/
+git clone https://github.com/zuck007/heroku-the-next-date.git
 npm install
 npm start
 ```
