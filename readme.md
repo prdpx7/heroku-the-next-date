@@ -1,7 +1,7 @@
 # heroku-the-next-date
 > Hosting API for [the-next-date](https://github.com/zuck007/the-next-date/) on heroku.
 
-[![MITlicensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zuck007/the-next-date/master/LICENSE)
+[![MITlicensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zuck007/heroku-the-next-date/master/LICENSE)
 
 ## Installation
 ```
