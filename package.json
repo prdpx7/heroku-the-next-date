@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start":"node app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pradeep Khileri <pradeepchoudhary009@gmail.com> (https://prdpx7.github.io)",
